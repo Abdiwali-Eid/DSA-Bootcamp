@@ -1,4 +1,4 @@
-package com.kunal;
+
 
 public class Scope {
     public static void main(String[] args) {

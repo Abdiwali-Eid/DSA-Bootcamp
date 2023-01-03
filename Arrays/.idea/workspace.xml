@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e71cfeeb-d84a-422e-88dc-33d094bf39ae" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColNoFixed.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColNoFixed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiAL.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiAL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MultiDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/MultiDimension.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PassinginFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/PassinginFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Swap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JpPJ9lc4XOUCNqPoIMmhSADL78" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/DSA-Bootcamp/Methods"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e71cfeeb-d84a-422e-88dc-33d094bf39ae" name="Changes" comment="" />
+      <created>1672771976754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672771976754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
