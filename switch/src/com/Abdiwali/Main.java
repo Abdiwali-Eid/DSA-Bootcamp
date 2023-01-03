@@ -1,4 +1,4 @@
-package com.kunal;
+package com.Abdiwali;
 
 import java.util.Scanner;
 
